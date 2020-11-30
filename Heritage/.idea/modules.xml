@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BaseDeDonnées/.idea/BaseDeDonnées.iml" filepath="$PROJECT_DIR$/../BaseDeDonnées/.idea/BaseDeDonnées.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Cookies/.idea/Cookies.iml" filepath="$PROJECT_DIR$/../Cookies/.idea/Cookies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dictionnaire/.idea/Dictionnaire.iml" filepath="$PROJECT_DIR$/../Dictionnaire/.idea/Dictionnaire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DonnéesFormulaire/.idea/DonnéesFormulaire.iml" filepath="$PROJECT_DIR$/../DonnéesFormulaire/.idea/DonnéesFormulaire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Décorateurs/.idea/Décorateurs.iml" filepath="$PROJECT_DIR$/../Décorateurs/.idea/Décorateurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fichiers/.idea/Fichiers.iml" filepath="$PROJECT_DIR$/../Fichiers/.idea/Fichiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GestionDates/.idea/GestionDates.iml" filepath="$PROJECT_DIR$/../GestionDates/.idea/GestionDates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GestionTemps/.idea/GestionTemps.iml" filepath="$PROJECT_DIR$/../GestionTemps/.idea/GestionTemps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Heritage.iml" filepath="$PROJECT_DIR$/.idea/Heritage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Interface/.idea/Interface.iml" filepath="$PROJECT_DIR$/../Interface/.idea/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Objets/.idea/Objets.iml" filepath="$PROJECT_DIR$/../Objets/.idea/Objets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProgrammationAsynchrone/.idea/ProgrammationAsynchrone.iml" filepath="$PROJECT_DIR$/../ProgrammationAsynchrone/.idea/ProgrammationAsynchrone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ServeurHttp&amp;PageWeb/.idea/ServeurHttp&amp;PageWeb.iml" filepath="$PROJECT_DIR$/../ServeurHttp&amp;PageWeb/.idea/ServeurHttp&amp;PageWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tuples/.idea/Tuples.iml" filepath="$PROJECT_DIR$/../Tuples/.idea/Tuples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../initiation/.idea/initiation.iml" filepath="$PROJECT_DIR$/../initiation/.idea/initiation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nouveau/.idea/nouveau.iml" filepath="$PROJECT_DIR$/../nouveau/.idea/nouveau.iml" />
+    </modules>
+  </component>
+</project>
